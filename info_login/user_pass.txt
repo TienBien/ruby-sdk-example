@@ -1,0 +1,5 @@
+{
+  "login" : "bktien@lhv.vn",
+  "password" : "khactien1906",
+  "server" : "https://staging3.intgdc.com"
+}
